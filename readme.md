@@ -1,0 +1,3 @@
+# flask_session_forgery
+
+hctf中用到的用于解析客户端session、伪造客户端sesion的脚本，encode.py为伪造脚本，decode.py为phith0n师傅的解析脚本
